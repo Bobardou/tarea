@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de dos lineas
+        Aprendiendo a documentar mi código con OpenBootcamp-->
+        <h1> Mi primera pagina :)</h1>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=k72StzCWNDg&ab_channel=Tomex">Me hackearon</a></li>
+            <li><a href="https://www.youtube.com/watch?v=Mq9pqEf0ERM&ab_channel=BananiDOU">Bananirou rompe record en pepsiman</a></li>
+            <li><a href="https://www.youtube.com/watch?v=pxmFsxmOYhg&ab_channel=MznaClips">Coscu es boludeado</a></li>
+            <li><a href="https://www.youtube.com/watch?v=AKJfakEsgy0&ab_channel=MrBeast">Mr beast hace 5 años</a></li>
+            <li><a href="https://www.youtube.com/watch?v=AfMd3tPE3LA&ab_channel=Tomex">Compre la pc gamer mas barata</a></li>
+        </ul>
+    </body>
+</html>
